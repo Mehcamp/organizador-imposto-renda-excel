@@ -57,8 +57,9 @@ Capturas de tela na pasta `images/`: Menu, uma aba preenchida, um erro de valida
 
 ## O que aprendi
 
-> Escreva aqui, com as suas palavras, o que você aprendeu ao montar a ferramenta (por exemplo: validação de dados, intervalos nomeados, hiperlinks internos, formatação condicional) e quais dificuldades teve.
+> Neste projeto aprendi a montar no Excel uma ferramenta de organização com cara de aplicativo. Usei **hiperlinks internos** para criar um menu de navegação e links rápidos para sites oficiais, e **validação de dados** (listas suspensas, datas, valores numéricos e CPF/CNPJ) para evitar erros de digitação. Também pratiquei **intervalos nomeados**, para deixar as fórmulas mais legíveis, e funções como `SOMA`, `SOMASE`, `SE` e `CONT.SE`, para calcular totais, deduções por categoria, variação de patrimônio e o andamento do checklist. Por fim, usei **formatação condicional** para destacar pendências, como comprovantes que ainda faltam.
 
+A principal lição foi que uma planilha bem estruturada, com campos validados e telas separadas por assunto, fica mais fácil de usar e confiar do que uma tabela solta. Também aprendi a documentar o projeto em um README e a compartilhá-lo no GitHub.
 ## Aviso
 
 Esta ferramenta serve apenas para organização de informações. As regras, limites e prazos da declaração mudam a cada ano: confira sempre no site da Receita Federal.
