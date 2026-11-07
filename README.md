@@ -46,7 +46,7 @@ Ajudar o usuário a organizar suas entradas de forma validada e prática, para q
 
 ## Como usar
 
-1. Abra `Organizador_IR_Melissa.xlsx` no Excel e comece pelo **Menu**.
+1. Abra `Organizador_IR.xlsx` no Excel e comece pelo **Menu**.
 2. Preencha as abas Rendimentos, Deducoes, Bens e Dividas, apenas nas células amarelas.
 3. Informe o ano-calendário na aba Resumo e marque o checklist de documentos.
 4. Consulte o Resumo para ver os totais.
