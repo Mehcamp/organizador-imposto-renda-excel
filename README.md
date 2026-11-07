@@ -2,7 +2,7 @@
 
 Ferramenta em Excel que reúne, em um só lugar, as informações necessárias para preparar a declaração de imposto de renda: rendimentos, despesas dedutíveis, bens, dívidas e um resumo final com checklist de documentos. Feita como desafio da DIO.
 
-Arquivo: `Organizador_IR_Melissa.xlsx`
+Arquivo: `Organizador_IR.xlsx`
 
 > Todos os dados que aparecem na planilha (nomes, CPF/CNPJ, valores) são **fictícios, apenas para exemplo**. Apague as linhas de exemplo antes de usar com seus dados reais.
 
